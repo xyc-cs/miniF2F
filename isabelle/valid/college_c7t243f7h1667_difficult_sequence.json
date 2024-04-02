@@ -1,0 +1,11 @@
+{
+    "problem_name": "inequality_dataset/normal/college/c7t243f7h1667_difficult_sequence",
+    "informal_statement": "Let x_1, x_2 postive numbers and define x_n+2=x_n+1+1/(x_n+sqrt(n)). Prove that the sequence x_n/ sqrt(n) has the limit 1.",
+    "informal_discuss": [
+        "Sample Answer 1: This is one killer for me.. I simply can't find a solution for it.. did anyone have something for it? and there is another one harazi posted, the one with lim{an^2+bn+c}sqrt(n) which I don't know the solution also for it.. can someone help? thank you!",
+        "Sample Answer 2: For the second problem I have a solution, but it's simply a monster, so you will have to wait until I have the courage and will to post it. Or maybe someone will escape me and will find an elegant solution.",
+        "Sample Answer 3: It's easy to show that x2<x3<...<x_n<... We consider 2 cases: Case1. For all n>2, x_n<sqrt(n). Then we have x_n+2-x_n+1>1/(2sqrt(n))>sqrt(n+2)-sqrt(n+1) thus sqrt(n+1)-x_n+1>sqrt(n+2)-x_n+2>0. So sqrt(n)-x_n -->c(>=0) (n-->infinity) (1) Case2. There is N>2 such that x_N \\geq sqrt(N) Note that if we have x_n \\geq sqrt(n) then x_n+1>x_n+ 1/(x_n+sqrt(n)) \\geq sqrt(n)+1/(2sqrt(n))>sqrt(n+1) So we have x_n>sqrt(n) for n>N For n>N: x_n+2-x_n+1<1/(2sqrt(n))<sqrt(n)-sqrt(n-1) thus x_n+1-sqrt(n-1)>x_n+2-sqrt(n)>0 so x_n-sqrt(n-2) -->c (>=0) (2) from (1),(2), it's easy to...",
+        "Sample Answer 4: Trongcanh said: Note that if we have x_n>= sqrt(n) then x_n+1>x_n+ 1/(x_n+sqrt(n)) >= sqrt(n)+1/(2sqrt(n))>sqrt(n+1) . I really have some doubts that the chain of inequalities is correct. And another question: what about if c>=0 from the first part of the solution is infinity?",
+        "Sample Answer 5: 1. Since x_n>x_n-1 then x_n+1=x_n+1/(x_n-1+sqrt(n-1))> x_n+1/(x_n+sqrt(n)). 2. f(x)=x+1/(x+sqrt(n)) increases for x>1 so f(x_n)>f(sqrt(n))=sqrt(n)+1/(2sqrt(n))>sqrt(n+1) (easy to check!) 3. a decreasing sequence whose elements >0... isn't it sufficient enough?"
+    ]
+}

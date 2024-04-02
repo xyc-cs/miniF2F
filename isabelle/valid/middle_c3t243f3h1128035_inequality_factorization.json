@@ -1,0 +1,13 @@
+{
+    "problem_name": "inequality_dataset/normal/middle/c3t243f3h1128035_inequality_factorization",
+    "informal_statement": "Find all ordered triples $(x, y, z)$ of integers satisfying $x^2+y^2+z^2+3 < xy+3y+2z$",
+    "informal_discuss": [
+        "Sample Answer 1: Do you mean (x,y,z)? Or troll",
+        "Sample Answer 2: good catch mikeyelo yes that what i meant",
+        "Sample Answer 3: Completing the square we get $$\\left(x-\\frac{y}{2}\\right)+\\frac{3}{4}\\left(y-2\\right)^2+(z-1)^2<1.$$ It is obvious our solutions are at $z=1$ and $y=1, 2,$ or $3.$ Checking cases we find $(x, y, z)=\\boxed{(1, 2, 1)}.$",
+        "Sample Answer 4: Use $(a,b,c)$ instead of $(x,y,z)$ . First we deal with the five trivial cases $a=-2,-1,0,1,2$ . If $a=-2$ the given inequality rearranges to: $$\\frac{23}4+\\left(b-\\frac12\\right)^2+(c-1)^2<0$$ which is false. If $a=-1$ the given inequality rearranges to: $$2+(b-1)^2+(c-1)^2<0$$ which is false. If $a=0$ the given inequality rearranges to: $$(b-1)(b-2)+(c-1)^2<0$$ which is false If $a=1$ the given inequality rearranges to: $$(b-2)^2+(c-1)^2<1$$ which is only true for $(a,b,c)=\\boxed{(1,2,1)}$ . If $a=2$ the given inequality rearranges to: $$(2b-5)^2+4(c-1)^2<1$$ which is only true for $b=2.5$ , no integer solutions. Otherwise, the given inequality rearranges to: $$\\frac12(a-b)^2+\\frac12(b-3)^2+(c-1)^2+\\frac12(a^2-5)<0$$ which is false.",
+        "Sample Answer 5: Why we must see separate the five trivial cases?",
+        "Sample Answer 6: You don't have to, but that's the way that made sense to me at the time.",
+        "Sample Answer 7: Yes, the $\\frac12(a-b)^2+\\frac12(b-3)^2+(c-1)^2+\\frac12(a^2-5)<0$ need casework only for $a=0,1,2$"
+    ]
+}
