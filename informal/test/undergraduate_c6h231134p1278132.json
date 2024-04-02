@@ -1,0 +1,8 @@
+{
+    "problem_name": "inequality_dataset/contest/undergraduate/c6h231134p1278132",
+    "informal_statement": "Prove:If $ a=p_1^{\\alpha_1}p_2^{\\alpha_2}\\cdots p_{n}^{\\alpha_n}$ is a perfect number, then $ 2<\\prod_{i=1}^n\\frac{p_i}{p_i-1}<4$ ; if moreover, $ a$ is odd, then the upper bound $ 4$ may be reduced to $ 2\\sqrt[3]{2}$ .",
+    "informal_discuss": [
+        "Sample Answer 1: Albanian Eagle wrote: Prove:If $ a = p_1^{\\alpha_1}p_2^{\\alpha_2}\\cdots p_{n}^{\\alpha_n}$ is a perfect number, then $ 2 < \\prod_{i = 1}^n\\frac {p_i}{p_i - 1} < 4$ ; if moreover, $ a$ is odd, then the upper bound $ 4$ may be reduced to $ 2\\sqrt [3]{2}$ . Because $ n$ is a perfect number so we have $ \\prod_{i=1}^n \\frac{p^{\\alpha +1}-1}{p^{\\alpha}(p-1)}=2$ . Because $ \\frac{p^{\\alpha+1}-1}{p^{\\alpha}(p-1)}<\\frac{p}{p-1}$ so the first inequality is followed. By the condition we have $ (\\prod_{i=1}^n \\frac{p^{\\alpha+1}-1}{p^{\\alpha}(p-1)})^2=4$ . In addition, it is not very hard to show that $ (\\frac{p^{\\alpha+1}-1}{p^{\\alpha}(p-1)})^2> \\frac{p}{p-1}$ for all $ \\alpha>1$ or $ p>2$ ( this inequality is equivalent to $ p^{\\alpha}>2+\\frac{1}{p^{2.\\alpha+1}}$ . Even in case $ p=2$ and $ \\alpha=1$ then $ a=6$ , the inequality is obviously true. When $ a$ is odd, it can be proved in the same way with the upper bound $ 2.\\sqrt[3]{2}$",
+        "Sample Answer 2: Well... if $ a$ is even we can use the fact that $ a=2^{k}(2^{k+1}-1)$ where $ 2^{k+1}$ is prime and the result is $ \\displaystyle\\prod{\\frac{p}{p-1}=2+\\frac{1}{2^k-1}}$ . Both inequalities are obvius and we can't improve the left inequality because we don't know if there are infinitely many Mersenne's primes."
+    ]
+}
