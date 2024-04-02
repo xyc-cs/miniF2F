@@ -1,8 +1,0 @@
-{
-    "problem_name": "inequality_dataset/normal/college/c7t243f7h2698_matrix_11th_grade_arad",
-    "informal_statement": "A \\in Mn(R) invertible prove that det(((A*))*) + (detA)^((n+1)^2) \\geq 2(detA)^(n^2 +1) where A* is the matrix verify A.A*=A*.A=detAI_n Viorel Tudoran si Razvan Tudoran, Arad",
-    "informal_discuss": [
-        "Sample Answer 1: Just the 1st idea that hit me! Induction maybe?",
-        "Sample Answer 2: I did not think about this gem A is invertible=> detA=/=0 with (1) A*.A=detAI we can do thing like take the determinant detA*.detA= (detA)^n=> (2) det(A*)=(detA)^(n-1) substtitute A by A* in (1) (A*)*.A*=det(A*)I =(detA)^(n-1)I take the determinant det((A*)*).det(A*)=(detA*)^(n(n-1)) => (3) det((A*)*)= (detA)^(n^2+1) the inequality becomes if we write x=detA x^(n^2+1) + x^(n^2+2n+1) \\geq 2x^(2n^2+2n+2) this is a consequence of AM-GM"
-    ]
-}

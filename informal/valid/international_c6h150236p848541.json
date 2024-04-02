@@ -1,8 +1,0 @@
-{
-    "problem_name": "inequality_dataset/contest/international/c6h150236p848541",
-    "informal_statement": "Prove that if $c$ is a positive number distinct from $1$ and $n$ a positive integer, then \\[n^{2}\\leq \\frac{c^{n}+c^{-n}-2}{c+c^{-1}-2}. \\]",
-    "informal_discuss": [
-        "Sample Answer 1: Let $d^{2}= c$ . Then the problem is equivalent to $n \\le \\frac{d^{n}+d^{-n}}{d+d^{-1}}= d^{n-1}+d^{n-3}+...++d^{3-n}+d^{1-n}$ And then the conclusion follows by AM-GM.",
-        "Sample Answer 2: We will prove by induction. Let $ n \\geq 3$ . (For $ n = 1,2$ , inequality is trivial) If we prove that $ \\left(\\frac {n + 1}{n}\\right)^2 \\leq \\frac {(c^{n + 1} - 1)^2}{c(c^n - 1)^2}$ then the induction is done. $ \\Longleftrightarrow \\: f(c) = n^2c^{2n + 2} - (n + 1)^2c^{2n + 1} + (4n + 2)c^{n + 1} - (n + 1)^2c + n^2 \\geq 0$ It is easy to show that $ f(1) = f'(1) = f''(1) = f'''(1) = 0$ and $ f''''(c) > 0$ when $ c \\geq 1$ Since $ f(c) \\geq 0 \\: \\Longleftrightarrow \\: f\\left(\\frac {1}{c}\\right) \\geq 0$ We can assume that $ c \\geq 1$ Since $ f''''(c) > 0$ and $ f(1) = f'(1) = f''(1) = f'''(1) = 0$ $ f'''(c), f''(c), f'(c)$ and $ f(c)$ are increasing functions and $ f(c) \\geq f(1) = 0$ Thus, solution is done."
-    ]
-}
