@@ -1,7 +1,0 @@
-{
-    "problem_name": "inequality_dataset/contest/international/c6h237235p1306101",
-    "informal_statement": "Find all the real numbers $ \\alpha$ satisfy the following property: for any positive integer $ n$ there exists an integer $ m$ such that $ \\left |\\alpha-\\frac{m}{n}\\right|<\\frac{1}{3n}$ .",
-    "informal_discuss": [
-        "Sample Answer 1: If $ \\alpha$ is an integer, then for any positive integer $ n$ there exists an integer $ m = \\alpha n$ such that $ | \\alpha - m| < \\frac {1}{3n}$ ; If $ \\alpha$ isn't an integer, there exists an positive integer $ n$ such that $ | \\alpha - m| \\geq \\frac {1}{3n}$ for any integer $ m$ ."
-    ]
-}
