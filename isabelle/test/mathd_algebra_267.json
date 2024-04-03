@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_267",
-    "informal_statement": "Suppose that $x$ is a real number such that $x \\neq 1$, $x \\neq -2$, and $\\frac{x+1}{x-1} = \\frac{x-2}{x+2}$. Show that $x=0$.",
-    "informal_proof": "Step 1: Cross-multiply to obtain $(x+1)(x+2) = (x-1)(x-2)$.\n\nStep 2: Simplify the resulting quadratic equation to obtain $6x = 0$.\n\nStep 3: Conclude that $x=0$."
-}

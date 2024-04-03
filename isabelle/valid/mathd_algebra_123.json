@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_123",
-    "informal_statement": "Given two natural numbers $a$ and $b$ such that $a + b = 20$ and $a = 3b$, show that $a - b = 10$.",
-    "informal_proof": "Step 1: Use the fact that $a = 3b$ to express $a - b$ in terms of $b$.\n\nStep 2: Simplify the expression for $a - b$.\n\nStep 3: Use the given equation $a + b = 20$ and the expression for $a = 3b$ to solve for $b$.\n\nStep 4: Substitute the value of $b$ into the expression for $a - b$ to obtain the desired result."
-}

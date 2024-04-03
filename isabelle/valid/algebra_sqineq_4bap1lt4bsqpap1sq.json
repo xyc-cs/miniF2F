@@ -1,5 +1,0 @@
-{
-    "problem_name": "algebra_sqineq_4bap1lt4bsqpap1sq",
-    "informal_statement": "Prove that for any real numbers $a$ and $b$, $4b(a+1) \\leq 4b^2 + (a+1)^2$.",
-    "informal_proof": "Step 1: Use the identity $(x+y)^2=x^2+2xy+y^2$ to expand $(a+1)^2$.\n\nStep 2: Rearrange the inequality to get $0 \\leq (a-b)^2$.\n\nStep 3: Since $(a-b)^2$ is always non-negative, the inequality is true."
-}

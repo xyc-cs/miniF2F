@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_493",
-    "informal_statement": "Let $f(x) = x^2 - 4\\sqrt{x} + 1$. Find $f(f(4))$.",
-    "informal_proof": "Step 1: Find $f(4)$.\n\nStep 2: Use the value of $f(4)$ to find $f(f(4))$."
-}

@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_192",
-    "informal_statement": "Given three complex numbers $q$, $e$, and $d$, where $q = 11 - 5i$, $e = 11 + 5i$, and $d = 2i$, show that the product $q \\cdot e \\cdot d$ is equal to $292i$.",
-    "informal_proof": "Step 1: Substitute the given values of $q$, $e$, and $d$.\n\nStep 2: Compute the product $q \\cdot e \\cdot d$.\n\nStep 3: Prove that the product is equal to $292i$."
-}

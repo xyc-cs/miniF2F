@@ -1,5 +1,0 @@
-{
-    "problem_name": "algebra_amgm_faxinrrp2msqrt2geq2mxm1div2x",
-    "informal_statement": "Suppose that $x$ is a positive real number. Show that $2-\\sqrt{2}\\geq 2-x-\\frac{1}{2x}$.",
-    "informal_proof": "Step 1: Show that $\\sqrt{2}\\leq x+\\frac{1}{2x}$.\n\nStep 2: Rearrange the inequality to get $2x^2+1-2x\\sqrt{2}\\geq 0$.\n\nStep 3: Factor the expression to get $(\\sqrt{2}x-1)^2\\geq 0$.\n\nStep 4: Conclude that the inequality is true."
-}

@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_234",
-    "informal_statement": "Suppose that $d$ is a real number such that $\\frac{27}{125}d = \\frac{9}{25}.$ Find the value of $\\frac{3}{5}d^3.$",
-    "informal_proof": "Step 1: Use the given information that $\\frac{27}{125}d = \\frac{9}{25}.$\n\nStep 2: Compute $\\frac{3}{5}d^3$ and show that it is equal to $\\frac{25}{9}.$"
-}

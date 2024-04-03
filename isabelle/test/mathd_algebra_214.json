@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_214",
-    "informal_statement": "Let $f(x)=a(x-2)^2+3$ for some real number $a$. If $f(4)=4$, find $f(6)$.",
-    "informal_proof": "Step 1: Use the fact that $f(4)=4$ to solve for $a$:\n$a=\\frac{1}{4}$.\n\nStep 2: Use the value of $a$ to find $f(6)$:\n$f(6)=\\frac{1}{4}(6-2)^2+3=7$."
-}

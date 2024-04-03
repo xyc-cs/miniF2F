@@ -1,5 +1,0 @@
-{
-    "problem_name": "amc12b_2003_p6",
-    "informal_statement": "Given a sequence $u$ defined by $u_k = ar^k$ for all $k$, where $a$ and $r$ are real numbers, and certain values of $u$, find the possible values of $u_0$.",
-    "informal_proof": "Step 1: Use the given information to find the value of $ar$.\n\nStep 2: Use the value of $ar$ to find the value of $ar^3$.\n\nStep 3: Use the values of $ar$ and $ar^3$ to find the value of $r^2$.\n\nStep 4: Find the possible values of $r$.\n\nStep 5: Use the value of $ar$ and the possible values of $r$ to find the possible values of $a$.\n\nStep 6: Use the values of $a$ and $r$ to find the possible values of $u_0$."
-}
