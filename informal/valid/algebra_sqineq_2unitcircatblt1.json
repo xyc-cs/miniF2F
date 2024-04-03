@@ -1,0 +1,5 @@
+{
+    "problem_name": "algebra_sqineq_2unitcircatblt1",
+    "informal_statement": "Suppose that $a$ and $b$ are real numbers such that $a^2+b^2=2.$ Show that $ab\\leq 1.$",
+    "informal_proof": "Step 1: Use the identity $(a-b)^2\\geq 0$ to get $2a^2+2b^2\\geq 4ab$.\n\nStep 2: Substitute $2= a^2+b^2$ to get $a^2+b^2\\geq 2ab$.\n\nStep 3: Rearrange the inequality to get $ab\\leq 1$."
+}

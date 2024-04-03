@@ -1,0 +1,5 @@
+{
+    "problem_name": "aimeI_2000_p7",
+    "informal_statement": "Given three positive real numbers $x$, $y$, and $z$ such that $xyz = 1$, and three equations involving $x$, $y$, $z$, and a rational number $p$, show that if $p$ is positive, then the sum of the numerator and denominator of $p$ in lowest terms is equal to 5.",
+    "informal_proof": "Step 1: Use the fact that $xyz = 1$ to derive an expression for $1/z$ in terms of $x$ and $y$.\n\nStep 2: Use the equation involving $x$ and $1/z$ to derive an expression for $1/x$ in terms of $y$.\n\nStep 3: Use the equation involving $y$ and $1/x$ to solve for $y$.\n\nStep 4: Use the equations involving $x$ and $y$ to solve for $x$.\n\nStep 5: Use the expression for $1/z$ and the value of $y$ to solve for $z$.\n\nStep 6: Use the equation involving $z$ and $1/y$ to solve for $p$.\n\nStep 7: Show that the sum of the numerator and denominator of $p$ in lowest terms is equal to 5."
+}

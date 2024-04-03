@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_132",
+    "informal_statement": "Suppose that $f(x) = x + 2$ and $g(x) = x^2$. If $f(g(x)) = g(f(x))$, find the value of $x$.",
+    "informal_proof": "Step 1: Compute $f(g(x))$ and $g(f(x))$ using the given functions.\n\nStep 2: Set $f(g(x)) = g(f(x))$ and simplify to get a quadratic equation in $x$.\n\nStep 3: Solve the quadratic equation to find $x = -\\frac{1}{2}$."
+}

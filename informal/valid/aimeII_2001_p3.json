@@ -1,0 +1,5 @@
+{
+    "problem_name": "aimeII_2001_p3",
+    "informal_statement": "Given a sequence of integers $x_1, x_2, x_3, \\ldots$ defined by $x_1 = 211$, $x_2 = 375$, $x_3 = 420$, $x_4 = 523$, and $x_n = x_{n-1} - x_{n-2} + x_{n-3} - x_{n-4}$ for all $n \\geq 5$, show that $x_{531} + x_{753} + x_{975} = 898$.",
+    "informal_proof": "Step 1: Use the given recursive definition of the sequence to derive a formula for $x_{5k+j}$ in terms of $x_j$ for $j=1,2,3,4$ and $k \\geq 1$.\n\nStep 2: Use the formula from Step 1 to compute $x_{531}$, $x_{753}$, and $x_{975}$.\n\nStep 3: Substitute the values from Step 2 into the equation $x_{531} + x_{753} + x_{975} = 898$ and prove that it holds.\n\nNote: Several intermediate steps are required to derive the formula in Step 1, which involve proving a recurrence relation for $x_{n+1}$ in terms of $x_{n-4}$ and using mathematical induction to show that $x_{5(2k)+j} = x_j$ for $j=1,2,3,4$ and $k \\geq 1$."
+}

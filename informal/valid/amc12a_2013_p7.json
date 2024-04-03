@@ -1,0 +1,5 @@
+{
+    "problem_name": "amc12a_2013_p7",
+    "informal_statement": "Suppose that $s_0,$ $s_1,$ $s_2,$ $\\ldots$ is a sequence of real numbers such that $s_{n+2}=s_{n+1}+s_n$ for all nonnegative integers $n.$ Given that $s_7=42$ and $s_9=110,$ find $s_4.$",
+    "informal_proof": "Step 1: Use the given recurrence relation to find $s_8$ and $s_6$.\n\nStep 2: Use $s_7$ and $s_6$ to find $s_5$.\n\nStep 3: Use $s_6$ and the recurrence relation to find $s_4$."
+}

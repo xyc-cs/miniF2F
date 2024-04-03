@@ -1,0 +1,5 @@
+{
+    "problem_name": "aime_1983_p9",
+    "informal_statement": "Suppose that $0<x<\\pi.$ Let $y=x\\sin x.$ Find the minimum value of $\\frac{9y^2+4}{y}.$ Show that it is 12.",
+    "informal_proof": "Step 1: Define $y=x\\sin x.$\n\nStep 2: Show that $(9y^2+4)\\geq 12y.$\n\nStep 3: Show that $\\frac{9y^2+4}{y}\\geq 12.$\n\nStep 4: The minimum value of $\\frac{9y^2+4}{y}$ is 12."
+}

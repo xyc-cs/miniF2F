@@ -1,0 +1,5 @@
+{
+    "problem_name": "amc12a_2009_p9",
+    "informal_statement": "Suppose that $f(x)$ is a quadratic function such that $f(x+3) = 3x^2 + 7x + 4$ for all real numbers $x.$ Find the sum of the coefficients of $f(x).$",
+    "informal_proof": "Step 1: Use the given equation to express $f(x)$ in terms of its coefficients.\n\nStep 2: Evaluate $f(1)$ using the expression from Step 1.\n\nStep 3: Evaluate $f(-2+3)$ using the given equation.\n\nStep 4: Equate the expressions from Steps 2 and 3 and solve for the sum of the coefficients of $f(x)$."
+}

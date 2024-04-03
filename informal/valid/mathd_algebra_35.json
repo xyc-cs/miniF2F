@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_35",
+    "informal_statement": "Let $p(x)=2-x^2$ and $q(x)=\\frac{6}{x}$ for $x\\neq 0.$ Find $p(q(2)).$",
+    "informal_proof": "Step 1: Find $q(2)$:\n$q(2)=3$.\n\nStep 2: Find $p(q(2))$:\n$p(q(2))=p(3)=-7$."
+}
