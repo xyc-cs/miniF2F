@@ -1,8 +1,0 @@
-{
-    "problem_name": "college_c7t243f7h4425_inequality",
-    "informal_statement": "prove that if a_1,a_2,...,a_n>0 then the following inequality holds: 1/n\\sum{k=1,n}(a_k)-(a_1.a_2....a_n)^(1/n) >= max{1<=i<j<=n}1/n( \\sqrt a_i-\\sqrt a_j)^2.",
-    "informal_discuss": "['Sample Answer 1: Well known and easy: Let us prove that a_1+...+a_n-(a_1*...*a_n)^1/n \\\\geq ( \\\\sqrt a_1- \\\\sqrt a_2) 2 . This becomes a_3+...+a_n+ \\\\sqrt a_1*a_2+ \\\\sqrt a_1*a_2 \\\\geq n(a_1*...*a_n)^1/n, which is AM-GM']",
-    "informal_proof": [
-        "\n\nLet us prove that a_1+...+a_n-(a_1*...*a_n)^1/n >= ( \\\\sqrt a_1- \\\\sqrt a_2) 2 . This becomes a_3+...+a_n+ \\\\sqrt a_1*a_2+ \\\\sqrt a_1*a_2 >= n(a_1*...*a_n)^1/n, which is AM-GM."
-    ]
-}
