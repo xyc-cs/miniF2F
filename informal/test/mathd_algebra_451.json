@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_451",
+    "informal_statement": "Given a bijective function $\\sigma$ and certain values of $\\sigma$ and its inverse, show that $\\sigma(\\sigma(9)) = 0$.",
+    "informal_proof": "Step 1: Use the given information to find the value of $\\sigma(9)$.\n\nStep 2: Use the value of $\\sigma(9)$ to find the value of $\\sigma(3)$.\n\nStep 3: Substitute the values of $\\sigma(9)$ and $\\sigma(3)$ into the expression $\\sigma(\\sigma(9))$ and prove that it is equal to 0."
+}

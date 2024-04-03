@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_67",
+    "informal_statement": "Let $f(x)=5x+3$ and $g(x)=x^2-2$. Find $g(f(-1))$.",
+    "informal_proof": "Step 1: Evaluate $f(-1)$ using the definition of $f$:\n$f(-1)=5(-1)+3=-2$.\n\nStep 2: Evaluate $g(f(-1))$ using the definition of $g$:\n$g(f(-1))=(-2)^2-2=2$."
+}

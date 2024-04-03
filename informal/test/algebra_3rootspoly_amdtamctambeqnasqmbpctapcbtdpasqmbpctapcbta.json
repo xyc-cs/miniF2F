@@ -1,0 +1,5 @@
+{
+    "problem_name": "algebra_3rootspoly_amdtamctambeqnasqmbpctapcbtdpasqmbpctapcbta",
+    "informal_statement": "Given complex numbers $a$, $b$, $c$, and $d$, show that the following equation holds:\n\n$$(a-d)(a-c)(a-b) = -\\left((a^2 - (b+c)a) + cb\\right)d + (a^2 - (b+c)a + cb)a$$",
+    "informal_proof": "Step 1: Use the identity $a^2 = a \\cdot a$ to rewrite the expression $(a-d)(a-c)(a-b)$.\n\nStep 2: Simplify the resulting expression using algebraic manipulation.\n\nStep 3: Verify that the simplified expression is equal to the right-hand side of the original equation."
+}

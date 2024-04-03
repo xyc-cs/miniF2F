@@ -1,0 +1,5 @@
+{
+    "problem_name": "algebra_amgm_sumasqdivbsqgeqsumbdiva",
+    "informal_statement": "Given three positive real numbers $a$, $b$, and $c$, show that $\\frac{a^2}{b^2} + \\frac{b^2}{c^2} + \\frac{c^2}{a^2} \\geq \\frac{b}{a} + \\frac{c}{b} + \\frac{a}{c}$.",
+    "informal_proof": "Step 1: Define $\\alpha = \\frac{a}{b}$, $\\beta = \\frac{b}{c}$, and $\\gamma = \\frac{c}{a}$.\n\nStep 2: Prove that $\\frac{1}{2}(\\alpha^2 + \\beta^2) \\geq \\alpha \\beta$.\n\nStep 3: Prove that $\\alpha^2 + \\beta^2 + \\gamma^2 \\geq \\alpha \\beta + \\beta \\gamma + \\alpha \\gamma$.\n\nStep 4: Use the definitions of $\\alpha$, $\\beta$, and $\\gamma$ to show that $\\frac{a^2}{b^2} + \\frac{b^2}{c^2} + \\frac{c^2}{a^2} = \\alpha^2 + \\beta^2 + \\gamma^2$.\n\nStep 5: Combine steps 3 and 4 to show that $\\frac{a^2}{b^2} + \\frac{b^2}{c^2} + \\frac{c^2}{a^2} \\geq \\frac{b}{a} + \\frac{c}{b} + \\frac{a}{c}$."
+}

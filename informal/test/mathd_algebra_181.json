@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_181",
+    "informal_statement": "Given a real number $n$ such that $n \\neq 3$ and $(n+5)/(n-3) = 2$, show that $n=11$.",
+    "informal_proof": "Step 1: Use the given equation $(n+5)/(n-3) = 2$ to obtain an equation involving $n$.\n\nStep 2: Simplify the equation to obtain an expression for $n$.\n\nStep 3: Show that the expression for $n$ is equal to 11."
+}

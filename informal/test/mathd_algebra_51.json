@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_51",
+    "informal_statement": "Suppose that $a$ and $b$ are positive real numbers such that $a+b=35$ and $a=\\frac{2}{5}b.$ Find the value of $b-a.$",
+    "informal_proof": "Step 1: Use the equation $a+b=35$ and $a=\\frac{2}{5}b$ to find the value of $b$.\n\nStep 2: Use the value of $b$ to find the value of $a$.\n\nStep 3: Substitute the values of $a$ and $b$ into the expression $b-a$ and prove that it is equal to 15."
+}

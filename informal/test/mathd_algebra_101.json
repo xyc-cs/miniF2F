@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_101",
+    "informal_statement": "Given a real number $x$ such that $x^2 - 5x - 4 \\leq 10$, show that $-2 \\leq x \\leq 7$.",
+    "informal_proof": "Step 1: Rearrange the inequality $x^2 - 5x - 4 \\leq 10$ to obtain $x^2 - 5x - 14 \\leq 0$.\n\nStep 2: Factor the quadratic expression $x^2 - 5x - 14$ to obtain $(x-7)(x+2) \\leq 0$.\n\nStep 3: Use the factored form of the expression to determine the values of $x$ that satisfy the inequality, namely $-2 \\leq x \\leq 7$."
+}

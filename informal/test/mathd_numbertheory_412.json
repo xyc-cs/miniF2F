@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_numbertheory_412",
+    "informal_statement": "Given two natural numbers $x$ and $y$ such that $x$ leaves a remainder of 4 when divided by 19 (i.e., $x \\equiv 4 \\pmod{19}$) and $y$ leaves a remainder of 7 when divided by 19 (i.e., $y \\equiv 7 \\pmod{19}$), show that $(x+1)^2 \\cdot (y+5)^3$ leaves a remainder of 13 when divided by 19 (i.e., $(x+1)^2 \\cdot (y+5)^3 \\equiv 13 \\pmod{19}$).",
+    "informal_proof": "Step 1: Use the given information that $x \\equiv 4 \\pmod{19}$ to compute $(x+1) \\pmod{19}$.\n\nStep 2: Compute $(x+1)^2 \\pmod{19}$.\n\nStep 3: Use the given information that $y \\equiv 7 \\pmod{19}$ to compute $(y+5) \\pmod{19}$.\n\nStep 4: Compute $(y+5)^3 \\pmod{19}$.\n\nStep 5: Compute $(x+1)^2 \\cdot (y+5)^3 \\pmod{19}$ and prove that it is equal to 13."
+}

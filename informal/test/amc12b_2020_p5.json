@@ -1,0 +1,5 @@
+{
+    "problem_name": "amc12b_2020_p5",
+    "informal_statement": "Suppose that $a$ and $b$ are positive integers such that $\\frac{5}{8}b-\\frac{2}{3}a=7$ and $b-\\frac{5}{8}b-\\left(a-\\frac{2}{3}a\\right)=7.$ Find $a.$",
+    "informal_proof": "Step 1: Solve the system of equations $\\frac{5}{8}b-\\frac{2}{3}a=7$ and $b-\\frac{5}{8}b-\\left(a-\\frac{2}{3}a\\right)=7$ for $a$.\n\nStep 2: The solution is $a=42$."
+}
