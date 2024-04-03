@@ -1,0 +1,5 @@
+{
+    "problem_name": "amc12a_2003_p24",
+    "informal_statement": "Given two real numbers $a$ and $b$ such that $b \\leq a$ and $b > 1$, show that the expression $\\frac{\\ln(a/b)}{\\ln a} + \\frac{\\ln(b/a)}{\\ln b}$ is less than or equal to 0.",
+    "informal_proof": "Step 1: Define $x = \\ln a$ and $y = \\ln b$.\n\nStep 2: Show that $y > 0$ and $x \\geq y$.\n\nStep 3: Use the definitions of $x$ and $y$ to rewrite the expression as $\\frac{x-y}{x} + \\frac{y-x}{y}$.\n\nStep 4: Simplify the expression to $2 - \\frac{y}{x} - \\frac{x}{y}$.\n\nStep 5: Use the inequality $(\\sqrt{x/y} - \\sqrt{y/x})^2 \\geq 0$ to derive the inequality $x/y - 2 + y/x \\geq 0$.\n\nStep 6: Combine the inequalities from steps 4 and 5 to show that the original expression is less than or equal to 0."
+}

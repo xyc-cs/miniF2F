@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_159",
+    "informal_statement": "Given a real number $b$ and a function $f(x) = 3x^4 - 7x^3 + 2x^2 - bx + 1$, if $f(1) = 1$, then show that $b = -2$.",
+    "informal_proof": "Step 1: Substitute $x=1$ into the expression for $f(x)$ to obtain an equation involving $b$.\n\nStep 2: Rearrange the equation from Step 1 to solve for $b$.\n\nStep 3: Use the given condition $f(1) = 1$ to show that $b = -2$."
+}

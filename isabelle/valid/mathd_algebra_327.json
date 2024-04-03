@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_327",
+    "informal_statement": "Given a real number $a$, if $\\frac{1}{5} \\cdot \\left|9 + 2a\\right| < 1$, then show that $-7 < a < -2$.",
+    "informal_proof": "Step 1: Use the given inequality to find a bound on $\\left|9 + 2a\\right|$.\n\nStep 2: Use the bound from Step 1 to find upper and lower bounds on $9 + 2a$.\n\nStep 3: Use the bounds from Step 2 to find upper and lower bounds on $2a$.\n\nStep 4: Use the bounds from Step 3 to find upper and lower bounds on $a$.\n\nStep 5: Combine the bounds from Step 4 to show that $-7 < a < -2$."
+}

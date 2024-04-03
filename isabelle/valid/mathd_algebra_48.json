@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_48",
+    "informal_statement": "Given two complex numbers $q$ and $e$ such that $q = 9 - 4i$ and $e = -3 - 4i$, show that $q - e = 12$.",
+    "informal_proof": "Step 1: Use the given information to express $q$ and $e$ in the form $a + bi$.\n\nStep 2: Compute the difference $q - e$.\n\nStep 3: Prove that $q - e = 12$."
+}

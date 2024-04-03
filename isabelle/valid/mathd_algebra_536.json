@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_536",
+    "informal_statement": "Prove that the expression $\\frac{3! \\cdot (2^3 + \\sqrt{9})}{2}$ is equal to 33.",
+    "informal_proof": "Step 1: Simplify the expression by replacing $\\sqrt{9}$ with 3.\n\nStep 2: Simplify the expression further by computing $3!$ and $2^3 + 3$.\n\nStep 3: Simplify the expression further by computing $3! \\cdot 11$.\n\nStep 4: Simplify the expression further by computing $\\frac{66}{2}$.\n\nStep 5: Conclude that the expression is equal to 33."
+}

@@ -1,0 +1,5 @@
+{
+    "problem_name": "amc12a_2021_p7",
+    "informal_statement": "For any real numbers $x$ and $y$, show that $(xy-1)^2 + (x+y)^2 \\geq 1$.",
+    "informal_proof": "Step 1: Expand the expression $(xy-1)^2 + (x+y)^2$.\n\nStep 2: Simplify the expression by collecting like terms.\n\nStep 3: Show that the resulting expression is greater than or equal to 1."
+}

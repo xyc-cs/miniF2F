@@ -1,0 +1,5 @@
+{
+    "problem_name": "algebra_binomnegdiscrineq_10alt28asqp1",
+    "informal_statement": "Prove that $10a \\leq 28a^2 + 1$ for any real number $a$.",
+    "informal_proof": "Step 1: Rewrite the inequality as $0 \\leq 28a^2 - 10a + 1$.\n\nStep 2: Show that the expression $28a^2 - 10a + 1$ is non-negative for all real numbers $a$.\n\nStep 3: Conclude that $10a \\leq 28a^2 + 1$ for all real numbers $a$."
+}

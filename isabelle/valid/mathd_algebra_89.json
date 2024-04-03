@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_89",
+    "informal_statement": "Given a non-zero real number $b,$ show that $\\left(7b^3\\right)^2 \\cdot \\frac{1}{\\left(4b^2\\right)^3} = \\frac{49}{64}$.",
+    "informal_proof": "Step 1: Expand $\\left(7b^3\\right)^2$ and $\\left(4b^2\\right)^3$.\n\nStep 2: Simplify the expression using the expanded forms.\n\nStep 3: Show that the simplified expression is equal to $\\frac{49}{64}$."
+}

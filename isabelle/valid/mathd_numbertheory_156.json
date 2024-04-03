@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_numbertheory_156",
+    "informal_statement": "Given a natural number $n$, show that the greatest common divisor of $n+7$ and $2n+1$ is at most 13.",
+    "informal_proof": "Step 1: Define $d$ to be the greatest common divisor of $n+7$ and $2n+1$.\n\nStep 2: Show that $d$ divides both $n+7$ and $2n+1$.\n\nStep 3: Use the fact that $d$ divides $2(n+7) - (2n+1) = 13$ to show that $d$ divides 13.\n\nStep 4: Use the fact that $d$ divides 13 to show that $d \\leq 13$.\n\nStep 5: Show that if $n=6$, then $d \\leq 13$.\n\nStep 6: Conclude that $d \\leq 13$ for all $n$."
+}
