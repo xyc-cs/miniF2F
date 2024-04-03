@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_numbertheory_370",
-    "informal_statement": "Given a natural number $n$ such that $n \\equiv 3 \\pmod{7}$, show that the expression $(2n+1)$ leaves a remainder of 0 when divided by 7 (i.e., $(2n+1) \\equiv 0 \\pmod{7}$).",
-    "informal_proof": "Step 1: Use the given information that $n \\equiv 3 \\pmod{7}$ to express $n$ in the form $n = 7q + 3$ for some integer $q$.\n\nStep 2: Substitute the expression for $n$ into the expression $(2n+1)$ and simplify.\n\nStep 3: Show that the simplified expression is divisible by 7."
-}

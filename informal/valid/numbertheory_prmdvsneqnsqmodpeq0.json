@@ -1,5 +1,0 @@
-{
-    "problem_name": "numbertheory_prmdvsneqnsqmodpeq0",
-    "informal_statement": "Let $n$ be an integer and $p$ be a prime number. Show that $p$ divides $n$ if and only if $n^2$ is congruent to 0 modulo $p$.",
-    "informal_proof": "Step 1: Assume that $p$ divides $n$. Show that $n^2$ is congruent to 0 modulo $p$.\n\nStep 2: Assume that $n^2$ is congruent to 0 modulo $p$. Show that $p$ divides $n$."
-}

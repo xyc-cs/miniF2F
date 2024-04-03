@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_405",
-    "informal_statement": "Given a natural number $x$ such that $x > 0$, show that $x = 1$ or $x = 2$ if $x^2 + 4x + 4 < 20$.",
-    "informal_proof": "Step 1: Use the fact that $x > 0$ to show that $x \\geq 1$.\n\nStep 2: Show that if $x = 2$, then $x^2 + 4x + 4 = 16$.\n\nStep 3: Show that if $x = 3$, then $x^2 + 4x + 4 = 25$.\n\nStep 4: Use the given inequality $x^2 + 4x + 4 < 20$ and the previous steps to conclude that $x = 1$ or $x = 2$."
-}

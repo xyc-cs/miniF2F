@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_119",
-    "informal_statement": "Suppose that $d$ and $e$ are two real numbers such that $2d = 17e - 8$ and $2e = d - 9$. Find the value of $e$.",
-    "informal_proof": "Step 1: Solve for $d$ in terms of $e$ using the second equation.\n\nStep 2: Substitute the expression for $d$ into the first equation.\n\nStep 3: Simplify the resulting equation to obtain a linear equation in $e$.\n\nStep 4: Solve for $e$.\n\nStep 5: Verify that the solution satisfies both original equations."
-}

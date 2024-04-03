@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_616",
-    "informal_statement": "Given two functions $f(x) = x^3 + 2x + 1$ and $g(x) = x - 1$, show that $f(g(1)) = 1$.",
-    "informal_proof": "Step 1: Substitute $g(1)$ into $f(x)$.\n\nStep 2: Simplify the expression using the definition of $f(x)$ and $g(x)$.\n\nStep 3: Simplify the expression further using basic algebraic manipulations.\n\nStep 4: Show that the final expression is equal to 1."
-}

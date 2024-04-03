@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_410",
-    "informal_statement": "Given a real number $x$, show that the expression $y = x^2 - 6x + 13$ is always greater than or equal to 4 (i.e., $y \\geq 4$).",
-    "informal_proof": "Step 1: Rewrite the expression $y = x^2 - 6x + 13$ as $y = (x-3)^2 - 9$.\n\nStep 2: Use the result from Step 1 to rewrite $y$ as $y = (x-3)^2 + 4$.\n\nStep 3: Show that $y \\geq 4$ by using the expression from Step 2."
-}

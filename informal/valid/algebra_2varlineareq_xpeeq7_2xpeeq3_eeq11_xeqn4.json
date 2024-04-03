@@ -1,5 +1,0 @@
-{
-    "problem_name": "algebra_2varlineareq_xpeeq7_2xpeeq3_eeq11_xeqn4",
-    "informal_statement": "Given two linear equations in two variables $x$ and $e$, find the values of $x$ and $e$ that satisfy both equations. The equations are $x + e = 7$ and $2x + e = 3$.",
-    "informal_proof": "Step 1: Use the two equations to eliminate $e$ and solve for $x$.\n\nStep 2: Substitute the value of $x$ into one of the equations to solve for $e$.\n\nStep 3: Verify that the values of $x$ and $e$ satisfy both equations."
-}

@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_28",
-    "informal_statement": "Given a real-valued function $f(x) = 2x^2 + 5x + c$, where $c$ is a constant, and the fact that there exists some $x$ such that $f(x) \\leq 0$, show that $c \\leq \\frac{25}{8}$.",
-    "informal_proof": "Step 1: Use the fact that there exists some $x$ such that $f(x) \\leq 0$ to derive an inequality involving $c$.\n\nStep 2: Simplify the inequality to obtain an expression of the form $25 \\geq 8c$.\n\nStep 3: Divide both sides of the inequality by 8 to obtain the desired result $c \\leq \\frac{25}{8}$."
-}

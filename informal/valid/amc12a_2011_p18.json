@@ -1,5 +1,0 @@
-{
-    "problem_name": "amc12a_2011_p18",
-    "informal_statement": "Suppose that $x$ and $y$ are real numbers such that $|x+y| + |x-y| = 2.$ Find the maximum value of $x^2 - 6x + y^2.$",
-    "informal_proof": "Step 1: Use the identity $(x-3)^2 + y^2 - 9 = x^2 - 6x + y^2$ to rewrite the expression we want to maximize.\n\nStep 2: Use the given equation to derive inequalities involving $x$ and $y$.\n\nStep 3: Use the inequalities from Step 2 to bound the expression from Step 1.\n\nStep 4: Show that the maximum value of $x^2 - 6x + y^2$ is 8."
-}

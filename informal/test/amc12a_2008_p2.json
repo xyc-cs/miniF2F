@@ -1,5 +1,0 @@
-{
-    "problem_name": "amc12a_2008_p2",
-    "informal_statement": "Suppose that $x$ is a real number such that $x\\left(\\frac{1}{2}+\\frac{2}{3}\\right)=1.$ Find the value of $x.$",
-    "informal_proof": "Step 1: Show that $x$ is positive and less than 1.\n\nStep 2: Using the given equation, solve for $x$:\n$x=\\frac{6}{7}$."
-}

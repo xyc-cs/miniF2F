@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_55",
-    "informal_statement": "Given two real numbers $q$ and $p$, where $q$ is defined as the sum of the first seven even positive integers minus the sum of the first seven odd positive integers, and $p$ is defined as the sum of the first seven positive integers multiplied by 3 minus the sum of the first seven positive integers multiplied by 2, show that $q/p = 2/3$.",
-    "informal_proof": "Step 1: Use the given definitions of $q$ and $p$ to write them in terms of their respective sums.\n\nStep 2: Simplify the expression $q/p$ using the definitions of $q$ and $p$.\n\nStep 3: Show that $q/p = 2/3$."
-}

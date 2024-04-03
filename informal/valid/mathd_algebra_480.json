@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_algebra_480",
-    "informal_statement": "Suppose that $f$ is a function defined on the real numbers as follows: for $x<0,$ $f(x)=-x^2-1;$ for $0\\leq x<4,$ $f(x)=2;$ and for $x\\geq 4,$ $f(x)=\\sqrt{x}.$ Find $f(\\pi).$",
-    "informal_proof": "Step 1: Show that $\\pi<4$.\n\nStep 2: Use the given definition of $f$ to find $f(\\pi)$.\n\nStep 3: Show that $f(\\pi)=2$."
-}

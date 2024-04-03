@@ -1,5 +1,0 @@
-{
-    "problem_name": "mathd_numbertheory_48",
-    "informal_statement": "Suppose that $b$ is a positive real number such that $3b^2+2b+1=57.$ Show that $b=4.$",
-    "informal_proof": "Step 1: Rewrite the given equation as $3b^2+2b-56=0$.\n\nStep 2: Factor the quadratic expression to get $(3b+14)(b-4)=0$.\n\nStep 3: Since $b$ is positive, we must have $b=4$."
-}

@@ -1,5 +1,0 @@
-{
-    "problem_name": "amc12_2001_p2",
-    "informal_statement": "Given two digits $a$ and $b$ such that $1 \\leq a \\leq 9$ and $0 \\leq b \\leq 9$, let $n$ be the two-digit number formed by concatenating $a$ and $b$ (i.e., $n = 10a + b$). If $n = ab + a + b$, show that $b = 9$.",
-    "informal_proof": "Step 1: Use the equation $n = ab + a + b$ to express $9a = ab$.\n\nStep 2: Use the fact that $1 \\leq a \\leq 9$ to conclude that $b = 9$."
-}
