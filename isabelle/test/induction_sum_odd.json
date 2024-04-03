@@ -1,0 +1,5 @@
+{
+    "problem_name": "induction_sum_odd",
+    "informal_statement": "Prove by induction that the sum of the first $n$ odd numbers is $n^2$.",
+    "informal_proof": "Step 1: Base case: Show that the sum of the first odd number is 1.\n\nStep 2: Inductive step: Assume that the sum of the first $n$ odd numbers is $n^2$. Show that the sum of the first $(n+1)$ odd numbers is $(n+1)^2$.\n\nStep 3: Combine the two steps to complete the proof."
+}

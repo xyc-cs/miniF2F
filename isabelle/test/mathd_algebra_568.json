@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_568",
+    "informal_statement": "Prove that $(a-1)(a+1)(a+2)-(a-2)(a+1)=a^3+a^2$ for any real number $a$.",
+    "informal_proof": "Step 1: Expand the left-hand side of the equation using distributivity:\n$(a-1)(a+1)(a+2)-(a-2)(a+1)=a^3+2a^2-a-2$.\n\nStep 2: Simplify the expression by combining like terms:\n$a^3+2a^2-a-2=a^3+a^2$.\n\nStep 3: Conclude the proof."
+}

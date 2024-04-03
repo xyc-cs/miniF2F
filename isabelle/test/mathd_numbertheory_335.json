@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_numbertheory_335",
+    "informal_statement": "Suppose that $n$ is a natural number such that $n\\equiv 5\\pmod{7}.$ Show that $5n\\equiv 4\\pmod{7}.$",
+    "informal_proof": "Step 1: Use the fact that $n\\equiv 5\\pmod{7}$ to write $n=7k+5$ for some integer $k$.\n\nStep 2: Compute $5n$ in terms of $k$.\n\nStep 3: Simplify $5n$ modulo 7 to get the desired result."
+}

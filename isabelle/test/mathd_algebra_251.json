@@ -1,0 +1,5 @@
+{
+    "problem_name": "mathd_algebra_251",
+    "informal_statement": "Suppose that $x$ is a nonzero real number such that $3+\\frac{1}{x}=\\frac{7}{x}.$ Show that $x=2.$",
+    "informal_proof": "Step 1: Rearrange the equation to get a common denominator:\n$3x + 1 = 7$.\n\nStep 2: Solve for $x$:\n$x = 2$.\n\nStep 3: Conclude the proof."
+}
