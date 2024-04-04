@@ -1,0 +1,10 @@
+{
+    "problem_name": "mathd_numbertheory_335",
+    "formal_statement": "theorem mathd_numbertheory_335:\n  fixes n :: nat\n  assumes h0 : \"n mod 7 = 5\"\n  shows \"(5 * n) mod 7 = 4\"",
+    "informal_statement": "When Rachel divides her favorite number by 7, she gets a remainder of 5. What will the remainder be if she multiplies her favorite number by 5 and then divides by 7? Show that it is 4.",
+    "informal_proof": "Let $n$ be Rachel's favorite number.  Then $n \\equiv 5 \\pmod{7}$, so $5n \\equiv 5 \\cdot 5 \\equiv 25 \\equiv 4 \\pmod{7}$.",
+    "python_proof": [
+        "\n\n        from sympy import *\n        n = symbols('n')\n        f = 5*n\n        f.subs(n, 100)\n        f.subs(n, 1000)\n        f.subs(n, 10000)\n        f.subs(n, 100000)\n        f.subs(n, 1000000)\n        f.subs(n, 10000000)\n        f.subs(n, 100000000)\n        f.subs(n, 1000000000)\n        f.subs(n, 10000000000)\n        f.subs(n, 100000000000)\n        f.subs(n, 1000000000000)\n        f.subs(n, 10000000000000)\n        f.subs(n, 100000000000000)\n        f.subs(n, 1000000000000000)\n        f.subs(n, 10000000000000000)\n        f.subs(n, 100000000000000000)\n        f.subs(n, 1000000000000000000)\n        f.subs(n, 10000000000000000000)\n        f.subs(n, 100000000000000000000)\n        f.subs(n, 1000000000000000000000)\n        f.subs(n, 10000000000000000000000)\n        f.subs(n, 100000000000000000000000)\n        f.subs(n, 1000000000000000000000000)\n        f.subs(n, 10000000000000000000000000)\n        f.subs(n, 100000000000000000000000000)\n        f.subs(n, 1000000000000000000000000000)\n        f.subs(n, 10000000000000000000000000000)\n        f.subs(n, 100000000000000000000000000000)\n        f.subs(n, 1000000000000000000000000000000)\n        f.subs(n, 10000000000000000000000000000000)\n        f.subs(n, 100000000000000000000000000000000)\n        f.subs(n, 1000000000000000000000000000000000)\n        f.subs(n, 10000000000000000000000000000000000)\n        f.subs(n, "
+    ],
+    "header": "(*\n  Authors: Albert Qiaochu Jiang\n*)\n\ntheory mathd_numbertheory_335 imports\n  Complex_Main\nbegin\n\n"
+}
