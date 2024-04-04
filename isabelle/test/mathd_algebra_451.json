@@ -1,8 +1,0 @@
-{
-    "problem_name": "mathd_algebra_451",
-    "informal_statement": "Suppose that $g(x)=f^{-1}(x)$. If $g(-15)=0$, $g(0)=3$, $g(3)=9$ and $g(9)=20$, what is $f(f(9))$? Show that it is 0.",
-    "informal_proof": "Since $f$ and $g$ are inverses and $g(3) = 9$, we have $f(9) = 3$, so $f(f(9)) = f(3)$. Similarly, $g(0) = 3$, so $f(3) = 0$.",
-    "python_proof": [
-        "\n\n        from sympy import *\n        x = Symbol('x')\n        f = Lambda(x, x**2)\n        g = Lambda(x, f(x))\n        g_inv = Lambda(x, f(x))\n        g_inv(0)\n        g_inv(3)\n        g_inv(9)\n        g_inv(-15)\n        f(f(9))\n        f(3)\n        f(0)\n        f(9)\n        f(-15)"
-    ]
-}
