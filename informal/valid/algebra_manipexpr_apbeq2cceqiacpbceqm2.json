@@ -1,0 +1,10 @@
+{
+    "problem_name": "algebra_manipexpr_apbeq2cceqiacpbceqm2",
+    "formal_statement": "theorem algebra_manipexpr_apbeq2cceqiacpbceqm2:\n  fixes a b c :: complex\n  assumes h0 : \"a+b = 2*c\"\n    and h1 : \"c = \\<i>\"\n  shows \"a*c+b*c=-2\"",
+    "informal_statement": "Given that $a+b = 2c$ and $c = \\text{Im}(1)$, show that $ac+bc=-2$.",
+    "informal_proof": "We have $ac + bc = (a+b)c=2c^2=2i^2=-2$",
+    "python_proof": [
+        "\n\n        from sympy import *\n        a,b,c = symbols('a b c')\n        eq1 = Eq(a+b,2*c)\n        eq2 = Eq(c,I)\n        solve([eq1,eq2],[a,b])\n        # [a, b]\n        # [a, -a]\n        # [a, -2*a]\n        # [a, -2*a + 2*I]\n        # [a, -2*a + 2*I + 2*I**2]\n        # [a, -2*a + 2*I + 2*I**2 - 2]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8 + 2*I**9]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8 + 2*I**9 - 2*I**10]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8 + 2*I**9 - 2*I**10 + 2*I**11]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8 + 2*I**9 - 2*I**10 + 2*I**11 - 2*I**12]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8 + 2*I**9 - 2*I**10 + 2*I**11 - 2*I**12 + 2*I**13]\n        # [a, -2*a + 2*I + 2*I**2 - 2 + 2*I**3 - 2*I**4 + 2*I**5 - 2*I**6 + 2*I**7 - 2*I**8 + 2*I**9 - 2*I**10 + 2*I**11 - 2*I**12 + 2*I**13 - 2*"
+    ],
+    "header": "(*\n  Authors: Albert Qiaochu Jiang\n*)\n\ntheory algebra_manipexpr_apbeq2cceqiacpbceqm2 imports\nComplex_Main\n\nbegin\n\n"
+}
